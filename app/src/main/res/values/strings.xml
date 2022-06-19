@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PZ14_Pogorelova</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="ukuk">TODO</string>
+    <string name="next">Next</string>
+    <string name="cookbook">CookBook</string>
+    <string name="_10_09">10:09</string>
+    <string name="_borsch">Борщ</string>
+    <string name="tht">Блинчики</string>
+    <string name="hyr">Цезарь</string>
+    <string name="jjyjy">TODO</string>
+    <string name="mg">Мол. коктейль</string>
+    <string name="jyjyj">Спагетти</string>
+    <string name="uukuk">TODO</string>
+    <string name="jyj">TODO</string>
+    <string name="ukukk">TODO</string>
+    <string name="lmll">TODO</string>
+    <string name="sryvh">TODO</string>
+    <string name="kfkld">Описание:</string>
+    <string name="_500_400_3_4_1_1_3_4_2_2_3">Говядина на косточке - 500г. Капуста- 400г 3-4 картофелины 1 морковь 1 больша луковица 3-4 зуба чеснока 2 вкусных сладких свеклы. Можно предварительно попробовать. Безвкусная свекла будет просто бесполезна 2-3 ст.л. томатной пасты. Можно использовать и нормальные, свежие помидоры или помидоры в собственном соку. Я пользуюсь обычно именно ими.</string>
+    <string name="wriur">TODO</string>
+    <string name="jkrjg">TODO</string>
+</resources>
